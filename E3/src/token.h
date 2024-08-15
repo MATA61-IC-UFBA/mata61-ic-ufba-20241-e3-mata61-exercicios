@@ -39,7 +39,7 @@ typedef enum {
         BACKSLASH,
         LEQ,
         GEQ,
-        EQ,
+        EQU,
         DIF,
         AND,
         OR,

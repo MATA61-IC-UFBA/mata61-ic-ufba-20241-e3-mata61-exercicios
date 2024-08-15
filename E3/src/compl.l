@@ -50,7 +50,7 @@ while { return WHILE; }
 
 \<= { return LEQ; }
 >= { return GEQ; }
-== { return EQ; }
+== { return EQU; }
 != { return DIF; }
 && { return AND; }
 \|\| { return OR; }
